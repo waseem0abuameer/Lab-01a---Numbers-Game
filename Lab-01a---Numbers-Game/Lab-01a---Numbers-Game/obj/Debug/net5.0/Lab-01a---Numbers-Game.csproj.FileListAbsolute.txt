@@ -1,0 +1,16 @@
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\bin\Debug\net5.0\Lab-01a---Numbers-Game.exe
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\bin\Debug\net5.0\Lab-01a---Numbers-Game.dll
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\Lab-01a---Numbers-Game.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\Lab-01a---Numbers-Game.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\Lab-01a---Numbers-Game.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\Lab-01a---Numbers-Game.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\Lab-01a---Numbers-Game.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\Lab-01a---Numbers-Game.dll
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\refint\Lab-01a---Numbers-Game.dll
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\Lab-01a---Numbers-Game.pdb
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\bin\Debug\net5.0\Lab-01a---Numbers-Game.deps.json
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\bin\Debug\net5.0\Lab-01a---Numbers-Game.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\bin\Debug\net5.0\Lab-01a---Numbers-Game.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\bin\Debug\net5.0\Lab-01a---Numbers-Game.pdb
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\Lab-01a---Numbers-Game.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\Lab-01a---Numbers-Game\obj\Debug\net5.0\ref\Lab-01a---Numbers-Game.dll
